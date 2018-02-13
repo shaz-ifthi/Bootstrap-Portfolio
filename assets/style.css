@@ -197,7 +197,7 @@ input[type=text1] {
 #portfolio_image1,
 #portfolio_image2{
     float: left;
-     padding-right: 10px;
+     /* padding-right: 10px; */
      padding-bottom: 20px;
      padding-top: 20px;
 }
@@ -215,11 +215,15 @@ input[type=text1] {
  
 }
 #portfolio_image1 {
-    /* padding-right: 20px; */
+    padding-right: 100px; 
 }
 #portfolio_image3 {
-    padding-right: 20px;
+    padding-right: 100px;
 }
-#portfolio_image1 {
-    padding-right: 20px;
-}
+ #portfolio_image2 {
+    padding-left: 100px;
+} 
+#portfolio_image4 {
+    padding-left: 100px;
+} 
+
